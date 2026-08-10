@@ -7,6 +7,8 @@ description: Build and sharpen a project's domain model. Use when the user wants
 
 Actively build and sharpen the project's domain model as you design. This is the *active* discipline — challenging terms, inventing edge-case scenarios, and writing the glossary and decisions down the moment they crystallise. (Merely *reading* `CONTEXT.md` for vocabulary is not this skill — that's a one-line habit any skill can do. This skill is for when you're changing the model, not just consuming it.)
 
+Write generated prose and headings in the language the user is using. The English format examples specify structure only. Preserve Markdown syntax, code, URLs, and project terms or identifiers that must remain exact.
+
 ## File structure
 
 Most repos have a single context:

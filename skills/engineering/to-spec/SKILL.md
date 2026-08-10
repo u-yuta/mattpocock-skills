@@ -16,7 +16,7 @@ The issue tracker and triage label vocabulary should have been provided to you â
 
 Check with the user that these seams match their expectations.
 
-3. Write the spec using the template below, then publish it to the project issue tracker. Apply the `ready-for-agent` triage label - no need for additional triage.
+3. Write the spec using the template below, then publish it to the project issue tracker. Write all generated prose and headings in the language the user is using; the English template specifies structure only. Preserve Markdown syntax, code, URLs, and configured tracker labels such as `ready-for-agent` verbatim. Apply the `ready-for-agent` triage label - no need for additional triage.
 
 <spec-template>
 

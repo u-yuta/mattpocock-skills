@@ -7,6 +7,8 @@ Interview the user relentlessly until you reach a shared understanding. Map this
 
 Work the tree in **rounds**. The **frontier** is every decision whose prerequisites are already settled — the questions you can ask _now_ without guessing at answers you haven't heard yet. Ask the whole frontier in one round: number each question and give your recommended answer. Then wait for the user's answers before the next round.
 
+Write each question and recommendation in the language the user is using. Keep the `❓` and `➡️` markers, but translate the prose and headings rather than copying the English example.
+
 Each question should be formatted like so:
 
 ```

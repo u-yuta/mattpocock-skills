@@ -7,6 +7,8 @@ description: Build a throwaway prototype to answer a design question. Use when t
 
 A prototype is **throwaway code that answers a question**. The question decides the shape.
 
+Write user-facing prototype copy, labels, comments, and handoff messages in the language the user is using. The English examples in the supporting guides specify structure only. Preserve code, commands, URLs, and identifiers that must remain exact.
+
 ## Pick a branch
 
 Identify which question is being answered — from the user's prompt, the surrounding code, or by asking if the user is around:

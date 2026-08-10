@@ -4,6 +4,9 @@
 
 It grills you about the **send**, never the subject. Interviewing you about the topic is pointless here: not knowing the topic is why you're writing to someone else. So it asks the two things you can always answer — who this is going to, and what you need back from them — and aims every question in the document at the **gap** between the two.
 
+
+The questionnaire follows the language you are using, while its Markdown structure remains consistent.
+
 ## When to reach for it
 
 You invoke this by typing `/to-questionnaire` — the [agent](https://www.aihero.dev/ai-coding-dictionary/agent) won't reach for it on its own.

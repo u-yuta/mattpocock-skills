@@ -14,6 +14,8 @@ Scaffold the per-repo configuration that the engineering skills assume:
 
 This is a prompt-driven skill, not a deterministic script. Explore, present what you found, confirm with the user, then write.
 
+Write user-facing messages and generated prose in the language the user is using. The English templates specify structure only. Preserve Markdown syntax, code, URLs, configured labels, and machine-consumed field names verbatim.
+
 ## Process
 
 ### 1. Explore

@@ -16,7 +16,7 @@ Turn something the user can't answer alone into a **questionnaire** — a Markdo
 
 ## Document structure
 
-Frame the document as a **discovery questionnaire**: the user lacks context, the recipient holds it. Order questions most-important-first — async means you may only get one pass — and group them under `##` headings by theme once there are more than a handful. Write it using the template below.
+Frame the document as a **discovery questionnaire**: the user lacks context, the recipient holds it. Order questions most-important-first — async means you may only get one pass — and group them under `##` headings by theme once there are more than a handful. Write all generated prose and headings in the language the user is using; the English template below specifies structure only. Preserve Markdown syntax, code, URLs, and any required identifiers verbatim.
 
 <questionnaire-template>
 

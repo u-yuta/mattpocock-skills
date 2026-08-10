@@ -6,6 +6,9 @@ It is only for issues **you didn't create**. Raw bug reports, incoming feature r
 
 The second thing that separates it from labelling by hand: it recommends and waits. It tells you its category and state call with reasoning, plus what it found in the codebase, and applies nothing until you direct it.
 
+
+Its replies, issue bodies, and comments follow the language you are using; configured labels and required tracker text remain exact.
+
 ## When to reach for it
 
 You invoke this by typing `/triage` and then describing what you want in plain language — the [agent](https://www.aihero.dev/ai-coding-dictionary/agent) won't reach for it on its own. "Show me anything that needs my attention", "let's look at #42", "move #42 to ready-for-agent".
